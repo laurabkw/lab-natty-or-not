@@ -1,48 +1,45 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# As Surpreendentes Aplicações Modernas do Teste de Turing na Era da IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é composto por uma breve explicação sobre as aplicações do teste de Turing nas IAs que estão sendo desenvolvidas atualmente.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para o ChatGPT me explicar o teste de Turing de modo que alguém que não é ligado à esta área pudesse entender, também pedi que ele me mostrasse alguns exemplos atuais de aplicação deste teste
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Origem do Teste de Turing
+
+O teste foi proposto pelo matemático e cientista da computação Alan Turing em 1950. A ideia central é bastante simples:
+
+    Configuração: Imagine uma situação em que um avaliador humano se comunica com duas entidades por meio de mensagens de texto. Uma dessas entidades é um humano, e a outra é uma máquina.
+
+    Objetivo do Avaliador: O avaliador deve tentar determinar qual das duas entidades é a máquina e qual é o humano, apenas com base nas respostas que recebe.
+
+    Critério de Sucesso: Se o avaliador não conseguir distinguir consistentemente a máquina do humano (ou se a máquina for capaz de enganar o avaliador a ponto de ele achar que a máquina é o humano), então a máquina é considerada inteligente.
+
+Aplicação nos Dias Atuais
+
+Hoje, o Teste de Turing é aplicado de diversas maneiras para avaliar e avançar no campo da inteligência artificial (IA):
+
+    Chatbots e Assistentes Virtuais: Empresas como Google, Apple, e Amazon desenvolvem assistentes virtuais (como Siri, Alexa e Google Assistant) que conversam com os usuários. Essas IAs são testadas para ver se conseguem entender e responder de forma natural e útil, aproximando-se do comportamento humano.
+
+    Concursos de IA: Há competições, como o Loebner Prize, que são especificamente projetadas para testar programas de IA em um formato similar ao Teste de Turing. Programas competem para ver qual deles consegue enganar os avaliadores humanos por mais tempo.
+
+    Interação com Clientes: Muitos serviços de atendimento ao cliente usam IAs para responder a perguntas comuns. A eficácia dessas IAs é frequentemente avaliada por sua capacidade de resolver problemas sem que os clientes percebam que estão interagindo com uma máquina.
+
+    Redes Sociais e Jogos: Em plataformas de redes sociais e jogos online, IA pode ser usada para interagir com os usuários, moderar conteúdo, ou fornecer suporte. Nesses casos, o objetivo é que a interação seja natural e não dê a impressão de ser gerada por uma máquina.
+
+Embora o Teste de Turing não seja perfeito e tenha suas limitações (por exemplo, um programa pode passar no teste sem realmente "entender" o que está dizendo), ele continua sendo uma ferramenta influente e um marco importante no desenvolvimento de tecnologias de inteligência artificial.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Realmente a parte mais complexa de um projeto como este é pensar em um bom prompt para que a IA retorne a informação desejada. No estanto, utilizar o ChatGPT, e outras IAs generativas, faz com que criar conteúdo fique 10 vezes mais fácil, pois o usuário não precisa pesquisar em diversas fontes ou ter um conhecimento prévio sobre o assunto para conseguir entender.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
